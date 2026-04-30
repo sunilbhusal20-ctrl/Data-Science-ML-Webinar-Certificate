@@ -1,6 +1,6 @@
 # 📊 Data Science & Machine Learning Webinar Certificate
 
-This repository contains my participation certificate from a webinar conducted by **GUVI & EDCell**, focused on Data Science, Machine Learning, and emerging AI technologies.
+This repository contains my participation certificate from a webinar conducted by **GUVI & HCL, focused on Data Science, Machine Learning, and emerging AI technologies.
 
 ## 📌 Overview
 
